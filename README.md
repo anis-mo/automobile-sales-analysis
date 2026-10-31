@@ -2,7 +2,7 @@
 
 ## 📌Project Overview
 
-This project analyzes a used car maketplace dataset using MySQL. The main goal is to clean the data, perform Exploratory Data Analysis (EDA) and discover useful insights about vehicle prices, specifications, and market trends.
+This project analyzes a used car marketplace dataset using MySQL. The main goal is to clean the data, perform Exploratory Data Analysis (EDA) and discover useful insights about vehicle prices, specifications, and market trends.
 
 ---
 
@@ -42,7 +42,7 @@ The dataset contains information about used vehicles, including :
 
 ## 🧹Data Cleaning
 
-The following cleaning stepes were performed :
+The following cleaning steps were performed :
 
 - Removed duplicate records.
 - Checked for NULL values.
@@ -66,7 +66,7 @@ The project answers questions such as :
 - How does accident history affect selling price ?
 - How does Service history affect selling price ?
 - How does the number of previous owners affect selling price ?
-- How does mileage vary across manufactoring years ?
+- How does mileage vary across manufacturing years ?
 - Which location has the most listed vehicles ?
 - What is the distribution of vehicles by fuel type ?
 - What is the distribution of vehicles by transmission ?
@@ -99,9 +99,9 @@ The project answers questions such as :
 
 - SUVs are the most common vehicle type.
 - Petrol vehicles dominate the dataset.
-- Automatic transmission is more common then manuam.
+- Automatic transmission is more common then manual.
 - Selling price is influenced by multiple vehicle characteristics such as year, mileage, horsepower, and engine size.
-- Fuel efficciency varies significantly across diffrent brands and models.
+- Fuel efficiency varies significantly across different brands and models.
 
 ---
 
@@ -125,7 +125,7 @@ README.md
 
 - Analyzed car selling prices across different fuel types and transmission categories.
 - Explored the relationship between mileage, manufacturing year, and selling price.
-- Examined how horsepower and torque relate to vehicule prices.
+- Examined how horsepower and torque relate to vehicle prices.
 - Compared selling prices based on ownership history and accident history.
 - Investigated the impact of service history on car selling prices.
 - Performed exploratory data analysis (EDA) using SQL queries to identify patterns and relationships in the automobile market.
