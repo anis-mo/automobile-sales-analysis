@@ -132,6 +132,16 @@ README.md
 
 ---
 
+📚 Data Source & License
+
+- Dataset: Automobile Dataset
+- Source: Kaggle
+- License: MIT License
+
+The dataset is provided under the MIT License. Please refer to the original dataset page for licensing details and attribution information.
+
+Dataset Link: "View Dataset on Kaggle" (https://www.kaggle.com/datasets/ieee-cs-nirma/automobile-market-analytics-dataset)
+
 ## ✔️Conclusion 
 
 This project used MySQL to explore automobile market data analyze the factors associated with car selling prices. The analysis focused on vehicle specifications, mileage, manufacturing year, ownership history, accident history, and service records.
